@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <rect name="editorWinPos">
+        <xmin>488</xmin>
+        <xmax>884</xmax>
+        <ymin>136</ymin>
+        <ymax>676</ymax>
+    </rect>
+    <rect name="presetWinPos">
+        <xmin>775</xmin>
+        <xmax>975</xmax>
+        <ymin>121</ymin>
+        <ymax>335</ymax>
+    </rect>
+    <rect name="controlWinPos">
+        <xmin>125</xmin>
+        <xmax>456</xmax>
+        <ymin>446</ymin>
+        <ymax>618</ymax>
+    </rect>
+    <bool name="useEC">1</bool>
+    <bool name="allowFlipHack">0</bool>
+</config>
